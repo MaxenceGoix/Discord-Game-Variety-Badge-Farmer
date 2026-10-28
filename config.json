@@ -1,0 +1,9 @@
+{
+    "start_iteration": 1,
+    "end_iteration": 10444,
+    "run_time": 5,
+    "runtime_unit": "seconds",
+    "increment": 10,
+    "increment_delay": 0.5,
+    "manual_auto_stop": false
+}
