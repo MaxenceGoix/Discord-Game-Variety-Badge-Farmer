@@ -52,7 +52,7 @@ Hard links generally avoid duplicating file contents on the same volume, but the
 
 - Windows 10 or Windows 11.
 - A working Python installation. The script uses the Python executable and runtime DLLs from the environment in which it is launched.
-- The standard-library Tkinter module, which is included with many Windows Python distributions.
+- The standard-library Tkinter library, which is included with many Windows Python distributions.
 - The official Discord desktop client if you want to observe Discord's activity detection. Activity visibility and recognition depend on Discord's own behavior and settings.
 
 The project uses Python's standard library; no third-party Python packages are imported by the provided script.
